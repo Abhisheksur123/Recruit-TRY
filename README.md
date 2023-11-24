@@ -1,2 +1,2 @@
 # Recruit-TRY
-Job Searching Website
+A job recruitment website
